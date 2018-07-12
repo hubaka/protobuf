@@ -1,0 +1,3 @@
+add_subfolder(
+	"appmain"
+)
